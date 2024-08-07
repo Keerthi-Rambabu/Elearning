@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/eLearning/static/css/main.fc0494fb.css",
+    "main.js": "/eLearning/static/js/main.d785b788.js",
+    "static/js/453.e6d1b925.chunk.js": "/eLearning/static/js/453.e6d1b925.chunk.js",
+    "static/media/ML.jpg": "/eLearning/static/media/ML.4e4c6f79ec81f01b5daf.jpg",
+    "static/media/main2.jpg": "/eLearning/static/media/main2.12bbb33e0e0eaad1f4fc.jpg",
+    "static/media/OS.jpeg": "/eLearning/static/media/OS.bb61a120a2bd58c0b11f.jpeg",
+    "static/media/subject1.jpeg": "/eLearning/static/media/subject1.39f29042ae42662e913f.jpeg",
+    "static/media/SE.jpeg": "/eLearning/static/media/SE.55e8d05951606aa4694a.jpeg",
+    "index.html": "/eLearning/index.html",
+    "main.fc0494fb.css.map": "/eLearning/static/css/main.fc0494fb.css.map",
+    "main.d785b788.js.map": "/eLearning/static/js/main.d785b788.js.map",
+    "453.e6d1b925.chunk.js.map": "/eLearning/static/js/453.e6d1b925.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc0494fb.css",
+    "static/js/main.d785b788.js"
+  ]
+}
